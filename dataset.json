@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant market coverage for Livermore, California. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Livermore, California, US",
+  "export_job_id": "cba2c4c5-ca08-4a25-8f84-179dc9674e42",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 989720,
+  "location_name": "Livermore",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-livermore-california-us-sample-989720",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/989720/beamstation_989720_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.69,
+  "sample_records": 19,
+  "sample_sha256": "259b8e2e92d2319fca14d3dfb88e9605f0fceb93df934d67764d41ee57d934ad",
+  "sample_size_bytes": 81664,
+  "total_records": 196,
+  "updated_at": "2026-04-14T19:17:57.074942+00:00"
+}
