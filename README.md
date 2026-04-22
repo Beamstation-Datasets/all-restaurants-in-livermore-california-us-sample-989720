@@ -1,6 +1,6 @@
 # All Restaurants in Livermore, California, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 12 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `989720` |
 | Location | Livermore |
 | Category | Restaurants |
-| Full dataset size | 196 records |
-| Free sample size | 19 records (9.69%) |
-| Last export | 2026-04-14T19:17:57.074942+00:00 |
+| Full dataset size | 125 records |
+| Free sample size | 12 records (9.6%) |
+| Last export | 2026-04-21T21:15:37.999047+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-livermore-california-us-sample-989720/releases/download/sample-latest/beamstation_989720_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
