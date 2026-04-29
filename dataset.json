@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete restaurant market coverage for Livermore, California. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Livermore, California, US",
-  "export_job_id": "3d4b8aec-1cd9-4f5c-92ea-d13cbf798183",
+  "export_job_id": "27b5ace9-7641-47e9-a2f3-65da86e304bc",
   "github_org": "Beamstation-Datasets",
   "id_short": 989720,
   "location_name": "Livermore",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-livermore-california-us-sample-989720",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/989720/beamstation_989720_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.6,
-  "sample_records": 12,
-  "sample_sha256": "5f6085d2ca73e74eab8f6f33b10b576b33e32153aa9b57893459ad605b76c0b6",
-  "sample_size_bytes": 58018,
-  "total_records": 125,
-  "updated_at": "2026-04-21T21:15:37.999047+00:00"
+  "sample_records": 17,
+  "sample_sha256": "5dd76fc3fc09b3d7e219d1c20b7df43dc14ea979e558f21f5658c140c0f40ead",
+  "sample_size_bytes": 69325,
+  "total_records": 177,
+  "updated_at": "2026-04-28T23:13:41.115040+00:00"
 }
