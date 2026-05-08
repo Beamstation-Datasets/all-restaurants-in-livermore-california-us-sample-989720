@@ -1,12 +1,12 @@
 {
-  "export_job_id": "27b5ace9-7641-47e9-a2f3-65da86e304bc",
+  "export_job_id": "45768918-482d-4f52-bdcc-81ee2a38ee3d",
   "id_short": 989720,
-  "published_at": "2026-04-29T07:51:07Z",
+  "published_at": "2026-05-08T07:11:51Z",
   "repo_name": "all-restaurants-in-livermore-california-us-sample-989720",
   "sample_asset_name": "beamstation_989720_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/989720/beamstation_989720_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 17,
-  "sample_sha256": "5dd76fc3fc09b3d7e219d1c20b7df43dc14ea979e558f21f5658c140c0f40ead",
-  "sample_size_bytes": 69325,
-  "total_records": 177
+  "sample_records": 21,
+  "sample_sha256": "952e2c8a71b6cfd9b53fc88f6ec2c6b7bad4ad83dea1bdc896cc0c4bf002188d",
+  "sample_size_bytes": 94136,
+  "total_records": 210
 }
